@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Muhammad Saad
 
-<!--
-**muhammadsaadkhankori/muhammadsaadkhankori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate AI, Computer Vision, and immersive technologies enthusiast.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **hockey violence detection using SOTA sequences (LSTM, GRU, and Vision Transformer)**.
+- 🌱 I’m currently learning **multimedia-based avatar assistant development**.
+- 💼 All of my projects are available at [GitHub](https://github.com/yourgithubprofile).
+- 🤝 Connect with me on [LinkedIn](your-linkedin-profile).
+- 📧 Reach out to me: [Your Email]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,blender,git,github,docker&theme=dark)](https://skillicons.dev)
+
+---
+
+### Pinned Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=repo1)](https://github.com/yourgithubusername/repo1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=repo2)](https://github.com/yourgithubusername/repo2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=repo3)](https://github.com/yourgithubusername/repo3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=repo4)](https://github.com/yourgithubusername/repo4)
