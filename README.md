@@ -12,10 +12,3 @@ A passionate AI, Computer Vision, and immersive technologies enthusiast.
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,blender,git,github,docker&theme=dark)](https://skillicons.dev)
 
 ---
-
-### Pinned Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=repo1)](https://github.com/yourgithubusername/repo1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=repo2)](https://github.com/yourgithubusername/repo2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=repo3)](https://github.com/yourgithubusername/repo3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=repo4)](https://github.com/yourgithubusername/repo4)
