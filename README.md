@@ -9,6 +9,6 @@ A passionate AI, Computer Vision, and immersive technologies enthusiast.
 - 📧 Reach out to me: [muhammadsaadicup@gmail.com]
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,blender,git,github,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,github,docker&theme=dark)](https://skillicons.dev)
 
 ---
