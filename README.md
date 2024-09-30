@@ -2,8 +2,7 @@
 
 A passionate AI, Computer Vision, and immersive technologies enthusiast.
 
-- 🔭 I’m currently working on **Mozilla Hubs-based educational platform named ZapAura with full-body avatars, real-time lip-syncing,
-and an AI teaching assistant using ChatGPT for multilingual interactions.**.
+- 🔭 I’m currently working on **Mozilla Hubs-based educational platform named ZapAura** with full-body avatars, real-time lip-syncing, and an AI teaching assistant using our own LLaMA model, trained on multimedia books and papers for multilingual interactions.
 - 🌱 I’m currently learning **multimedia-based avatar assistant development**.
 - 💼 All of my projects are available at [GitHub](https://github.com/muhammadsaadkhankori).
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile).
