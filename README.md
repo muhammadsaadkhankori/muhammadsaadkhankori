@@ -5,7 +5,7 @@ A passionate AI, Computer Vision, and immersive technologies enthusiast.
 - 🔭 I’m currently working on **hockey violence detection using SOTA sequences (LSTM, GRU, and Vision Transformer)**.
 - 🌱 I’m currently learning **multimedia-based avatar assistant development**.
 - 💼 All of my projects are available at [GitHub](https://github.com/muhammadsaadkhankori).
-- 🤝 Connect with me on [LinkedIn](your-linkedin-profile).
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile).
 - 📧 Reach out to me: [Your Email]
 
 ### Languages and Tools:
