@@ -10,5 +10,4 @@ A passionate AI, Computer Vision, and immersive technologies enthusiast.
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,github,docker&theme=dark)](https://skillicons.dev)
-
 ---
