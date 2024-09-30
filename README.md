@@ -1,36 +1,19 @@
-# Hi there, I'm Muhammad Saad 👋🚀
+# Hi 👋, I'm Muhammad Saad
 
-Welcome to my corner of the Metaverse! I’m an **AI, Computer Vision**, and **Immersive Technologies** explorer 🧑‍🚀, always on the hunt for cutting-edge ways to blend technology with creativity. Let's dive in! 🌊
+A passionate AI, Computer Vision, and immersive technologies enthusiast. I live and breathe in the Metaverse 🪐!
 
-### 🥽 The ZapAura Universe:
-I've been **building** and **expanding** **ZapAura** — an epic, ever-evolving Mozilla Hubs-based platform where:
-- Full-body avatars walk and talk 🤖💬
-- Real-time lip-syncing brings conversations to life 🎤
-- AI teaching assistants (powered by a custom LLaMA model 🦙) provide interactive, animated responses 🎓✨
+- 🥽 I’ve been **crafting** 🔧 **ZapAura**, a Mozilla Hubs-based platform where avatars walk, talk, and teach! 🚀 With full-body avatars, real-time lip-syncing, and a super-smart AI teaching assistant powered by a custom LLaMA model 🦙, we’re constantly adding cool features, including visual avatars that respond with interactive animations. Ready for the next level? 🌐
+- 🌱 I’m always **learning** new tricks to make avatars even cooler—currently working on multimedia-based avatar assistant development! 🎨
+- 💼 Curious about my other projects? Check them out here: [GitHub](https://github.com/muhammadsaadkhankori) 🖥️
+- 🤝 Don’t be shy, let’s connect: [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) 🤖
+- 📧 Need to reach me? Drop me a line here: [muhammadsaadicup@gmail.com] 💌
 
-We're constantly adding cool new features to make ZapAura the ultimate immersive learning experience! 🌍
-
----
-
-### 🔥 What I’m Cooking Up Now:
-- 🌱 **Learning** the ins and outs of multimedia-based avatar assistant development 🎨🖥️
-- 🛠️ Constantly tinkering with AI, VR, and avatar tech to push boundaries and level up! ⚡
-
----
-
-### 💻 Explore My Projects:
-- 🖥️ Curious to see my work? Check it all out on [GitHub](https://github.com/muhammadsaadkhankori) 💡
-- 🤝 Let’s connect and share ideas on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) 💼
-- 📧 Have a question? Reach out to me at [muhammadsaadicup@gmail.com] 💬
-
----
-
-### 🚀 Languages & Tools:
-<p align="center">
+### 🚀 Languages and Tools I Jam With:
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,github,docker&theme=dark" alt="skills" />
 </p>
 
 ---
 
 ### ⚡ Fun Fact:
-Did you know? Virtual Reality is like creating a whole new dimension 🌀. I’m absolutely fascinated by how **VR** can change the future of education 📚, gaming 🎮, and social experiences 🌐. Let’s explore the **Metaverse** together — the possibilities are endless! 🥽🚀
+- VR is not just tech, it's a **revolution**! 🥽 I'm obsessed with **immersive learning experiences** and how **virtual reality** can reshape education and beyond. 🌍🌈 Let’s explore the metaverse together!
